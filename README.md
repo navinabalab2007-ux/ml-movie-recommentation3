@@ -34,5 +34,9 @@ Output:
 - Deploy as web application
 - Improve recommendation accuracy
 
+- ## 📸 Project Output
+
+![Movie Recommendation Output](movie_recommendation_output.png)
+
 ---
 Developed by Navinabala 🚀
